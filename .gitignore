@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled output
+out/
+
+# Java build output
+target/
+build/
+
+# Logs
+*.log
